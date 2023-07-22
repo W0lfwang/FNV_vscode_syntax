@@ -25,13 +25,13 @@
 	"icon": "images/logo.png",
     "contributes": {
         "languages": [{
-            "id": "nvscript",
+            "id": "fnvscript",
             "aliases": ["New Vegas Script", "FNV Script", "geck"],
             "extensions": [".gek"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
-            "language": "obscript",
+            "language": "fnvscript",
             "scopeName": "source.obscript",
             "path": "./syntaxes/obscript.tmLanguage.json"
         }]

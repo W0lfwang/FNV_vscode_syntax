@@ -1,6 +1,6 @@
 # The Elder Scrolls IV: Oblivion Script Syntax
 
-This extension provides a TextMate grammar for the scripting language used in The Elder Scrolls IV: Oblivion (Obscript).
+This extension provides a TextMate grammar for the scripting language used in The Elder Scrolls IV: Oblivion (fnvscript).
 
 ![](https://raw.githubusercontent.com/Temetra/tes4_vscode_syntax/main/images/example.png)
 
