@@ -103,7 +103,7 @@
 			"patterns": [
 				{
 					"name": "support.type.primitive.fnvscript",
-					"match": "(?i)\\b(short|long|float|ref|string_var|array_var)\\b"
+					"match": "(?i)\\b(int|short|long|float|ref|string_var|array_var)\\b"
 				}
 			]
 		},
