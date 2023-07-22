@@ -32,8 +32,8 @@
         }],
         "grammars": [{
             "language": "fnvscript",
-            "scopeName": "source.obscript",
-            "path": "./syntaxes/obscript.tmLanguage.json"
+            "scopeName": "source.fnvscript",
+            "path": "./syntaxes/fnvscript.tmLanguage.json"
         }]
     }
 }
