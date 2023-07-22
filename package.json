@@ -1,7 +1,7 @@
 {
-    "name": "tes4scriptsyntax",
-    "displayName": "The Elder Scrolls IV: Oblivion Script Syntax",
-    "description": "Oblivion (TES4) scripting language support for VS Code",
+    "name": "fnvscriptsyntax",
+    "displayName": "Fallout New Vegas: Script Syntax",
+    "description": "New Vegas (FNV) scripting language support for VS Code",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
@@ -11,23 +11,23 @@
     ],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/temetra/tes4_vscode_syntax.git"
+		"url": "https://github.com/W0lfwang/FNV_vscode_syntax"
 	},
 	"keywords": [
         "syntax",
         "highlight",
-		"tes4",
-		"oblivion"
+		"fnv",
+		"fallout"
 	],
 	"author": "Temetra <temetra.xy+git@gmail.com>",
-    "publisher": "Temetra",
+    "publisher": "W0lfwang",
 	"license": "MIT",
 	"icon": "images/logo.png",
     "contributes": {
         "languages": [{
-            "id": "obscript",
-            "aliases": ["Oblivion Script", "TES4 Script", "obscript"],
-            "extensions": [".obscript"],
+            "id": "nvscript",
+            "aliases": ["New Vegas Script", "FNV Script", "geck"],
+            "extensions": [".gek"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
