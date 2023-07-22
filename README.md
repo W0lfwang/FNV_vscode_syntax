@@ -1,6 +1,6 @@
-# The Elder Scrolls IV: Oblivion Script Syntax
+# Fallout: New Vegas Script Syntax
 
-This extension provides a TextMate grammar for the scripting language used in The Fallout: New Vegas (fnvscript).
+This extension provides a TextMate grammar for the scripting language used in The Fallout: New Vegas (fnvscript). to use with [Hot Reload (NVSE)](https://www.nexusmods.com/newvegas/mods/70962).
 
 This is a fork from tes4_vscode_syntax, right now it's only an adaptation for the extension .gek
 
@@ -18,7 +18,7 @@ This extension highlights the following:
 * Numbers
 * Player and PlayerRef
 
-It also highlights 364 Construction Set functions, and 1467 OBSE functions. These were generated from the [raw function list](https://cs.elderscrolls.com/index.php?title=Raw_Function_List) on the Construction Set wiki.
+It also highlights 364 Construction Set functions, and 1467 OBSE functions (FNV functions should be added). These were generated from the [raw function list](https://cs.elderscrolls.com/index.php?title=Raw_Function_List) on the Construction Set wiki.
 
 Intended to work with [Hot Reload (NVSE)](https://www.nexusmods.com/newvegas/mods/70962) and it's **Compile scripts on file save** function.
 
