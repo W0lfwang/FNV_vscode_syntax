@@ -4,7 +4,7 @@ This extension provides a TextMate grammar for the scripting language used in Th
 
 This is a fork from tes4_vscode_syntax, right now it's only an adaptation for the extension .gek
 
-![](https://raw.githubusercontent.com/Temetra/tes4_vscode_syntax/main/images/example.png)
+![](https://raw.githubusercontent.com/W0lfwang/FNV_vscode_syntax/main/images/example.png)
 
 ## Features
 
