@@ -32,6 +32,8 @@ Just starting. Please let me know of any issues on [Github](https://github.com/W
 Make sure you  have Node.js (which includes npm - Node Package Manager) installed on your computer. You can download the latest version from the official [Node.js website](https://nodejs.org/). 
 
 ### 2. Pack the Extension:
+`package.json` takes care of the name and version of the final vsix file, so this kind of modification goes there.
+
 To package your extension into a .vsix file, you can use the vsce tool. If you haven't installed it yet, you can do so by running:
 ```
 npm install -g vsce
