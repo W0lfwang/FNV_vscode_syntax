@@ -18,7 +18,7 @@ This extension highlights the following:
 * Numbers
 * Player and PlayerRef
 
-It also highlights 364 Construction Set functions, and 1467 OBSE functions (FNV functions should be added). These were generated from the [raw function list](https://cs.elderscrolls.com/index.php?title=Raw_Function_List) on the Construction Set wiki.
+It also highlights 2962 xNVSE and its Plugins functions, along with their aliases. These were generated from the [Geck Wiki](https://geckwiki.com/index.php?title=Category:Functions_(All))
 
 Intended to work with [Hot Reload (NVSE)](https://www.nexusmods.com/newvegas/mods/70962) and it's **Compile scripts on file save** function.
 
@@ -43,3 +43,7 @@ vsce package
 ```
 ### 3. Install the Extension in Visual Studio Code:
 Open Visual Studio Code, go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X), click on the "More actions" menu (three dots), choose "Install from VSIX," and select the .vsix file you generated in the previous step.
+
+## Testing
+
+You can test the formatting online with [TextMate Grammar Testing Tool](https://www.antvaset.com/textmate-grammar-testing-tool)
