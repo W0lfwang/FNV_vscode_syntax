@@ -59,13 +59,13 @@
 		"blocks": {
 			"patterns": [
 				{
-					"begin": "(?i)(^(\\s+)?)(?=(begin|end)\\b)",
+					"begin": "(?i)((^(\\s+)?)|\\()(?=(begin|end)\\b)",
 					"beginCaptures": {
 						"1": {
 							"name": "punctuation.whitespace.block.leading.fnvscript"
 						}
 					},
-					"end": "(?=$)",
+					"end": "(?=($|{))",
 					"patterns": [
 						{
 							"name": "storage.type.function.fnvscript",
